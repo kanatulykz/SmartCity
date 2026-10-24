@@ -1,0 +1,2 @@
+# SmartCity
+Merey's DIPLOMA
